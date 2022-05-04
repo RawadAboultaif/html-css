@@ -158,7 +158,11 @@ aside ul {
     list-style-type: '\2714\00A0\00A0';
     list-style-position: inside;
     columns: 2;
-    }
+}
+aside ul abbr {
+    text-decoration: none;
+}
+}
 aside h3 {
     background-color: var(--cor04);
     color: white;
